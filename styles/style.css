@@ -66,12 +66,16 @@
 
 .accent-span {
   display: block;
-  letter-spacing: 0em;
+  letter-spacing: 0.3em;
   line-height: 115px;
 }
 
 .accent-span-o {
-  letter-spacing: 0.3em;
+  letter-spacing: 0.6em;
+}
+
+.accent-span-last{
+    letter-spacing: 0;
 }
 
 .accent-span-cover__text-center {
